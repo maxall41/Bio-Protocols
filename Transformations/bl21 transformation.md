@@ -8,7 +8,8 @@
   * calcium chloride
   * syringe + syringe filter
   * LB broth
-  * LB agar plate + appropriate antibiotic 
+  * LB agar plate + appropriate antibiotic
+  * S.O.C media 
   * Innoculation loop
   * Sterile spreader
   * Bunser burner or torch
