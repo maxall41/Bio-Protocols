@@ -53,7 +53,7 @@
   13. Preheat hot plate/water bath to 42C
   14. After incubation in the fridge heat shock cells in heat block for exactly 90s
   15. immeditaly chill in ice bath after heat shocking for 3-5 min
-  16. Add 1ml of fresh S.O.C media to each tube, and allow to recover in an incubator at 37C for 1-2H with shaking/rotation
+  16. Add 1ml of fresh S.O.C media to each tube, and allow to recover in an incubator at 37C for 1-2H with shaking/rotation (if S.O.C media is not available. This can be substituted with LB broth, but will result in lower transformation efficiency)
 
 If using turbo or other easy strains:
   * plate 100ul of recovered solution on appropriate antibiotic or selection plates
